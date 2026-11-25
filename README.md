@@ -5,6 +5,7 @@
 <p>https://roadmap.sh/projects/datepicker-ui</p>
 <h2>My Own Project Review</h2>
 <a href="https://seanpark0624-droid.github.io/Datepicker-UI/">here</a>
+<h2>How to run the project:</h2>
 <ol>
   <li>Open <code>index.html</code> file and <code>styles.css</code> file.</li>
   <li>Copy and paste the code into a code editor</li>
